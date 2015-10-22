@@ -1,19 +1,33 @@
 html
 {
-  background: url('img/sanfran_4k.jpg') no-repeat center center fixed;
+  background: url('img/dock.jpg') no-repeat center center fixed;
+  /*background-color: rgba(0,0,0,.4);*/
+  /*background-image: url('img/sanfran_4k.jpg');*/
+  /*background-repeat: no-repeat;*/
+  /*background-attachment: center center;*/
+  /*background-position: fixed;*/
 }
 body
 {
-  font-family: "Arial", sans-serif;
+  background-color: rgba(0,0,0,.4);
+  /*font-family: "Arial", sans-serif;*/
+  font-family: 'Open Sans', sans-serif;
   color:white;
+  margin:0px;
+}
+.container
+{
+  overflow: hidden;
+  /*float:left;*/
+  /*clear:none;*/
 }
 #name
 {
-    font-size: 4em;
+  font-size: 4em;
 }
 #subtitle
 {
-  font-size: 2em;
+  font-size: 1em;
 }
 #main a
 {
@@ -21,8 +35,30 @@ body
   margin-left: 10px;
   margin-right: 10px;
 }
+#main div
+{
+  /*font-size: 0em;*/
+  /*vertical-align: top;*/
+}
 #main
 {
+  float: left;
+  /*display:inline-block;*/
+  /*background-color: rgba(0,0,0,.4);*/
+  /*margin-left: 0;*/
+  /*margin-right: 0;*/
   padding-top: 20vh;
   text-align: center;
+  height:100%;
+  width: 48%;
+}
+#info
+{
+  float:right;
+  /*color: black;*/
+  height:100vh;
+  /*background-color: rgba(255,255,255, .99);*/
+  width:48%;
+  /*margin-left: 0;*/
+  /*margin-right:0;*/
 }

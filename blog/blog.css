@@ -4,7 +4,7 @@ html
 }
 body
 {
-  font-family: "Arial", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color:white;
 }
 #header
@@ -21,6 +21,25 @@ body
 #subtitle
 {
   color:rgb(111, 111, 111)
+}
+#listing_title
+{
+  font-size:3em;
+}
+#posts
+{
+  text-align: center;
+  font-size:2em;
+}
+#posts a
+{
+  color: white;
+  font-style: normal;
+  text-decoration: none;
+}
+#posts i
+{
+  margin-right: 10px;
 }
 /*#name
 {
