@@ -17,7 +17,7 @@ body
   /*font-family: "Arial", sans-serif;*/
   font-family: 'Open Sans', sans-serif;
   color:white;
-  margin:0px;
+  margin: 0;px;
   /*position:absolute;*/
 }
 a
@@ -39,14 +39,14 @@ a
 #name
 {
   font-size: 4em;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
 }
 #subtitle
 {
   font-size: 1em;
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
 }
 #main a
 {
@@ -58,11 +58,6 @@ a
 #main i
 {
   margin-right: 5px;
-}
-#main div
-{
-  /*font-size: 0em;*/
-  /*vertical-align: top;*/
 }
 #main
 {
@@ -98,7 +93,7 @@ a
   /*background-color: rgba(44, 62, 80,.5);*/
   width:50%;
   /*margin-left: 0;*/
-  /*margin-right:0;*/
+  /*margin-right: 0;;*/
   text-align: center;
   overflow: scroll;
 }
