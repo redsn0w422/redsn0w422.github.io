@@ -9,7 +9,9 @@ html
 }
 body
 {
-  background-color: rgba(0,0,0,.4);
+  /*background-color: rgba(0,0,0,.4);*/
+  background-color: rgba(155, 89, 182,.15);
+  /*background-color: rgba(26, 188, 156,.2);*/
   /*font-family: "Arial", sans-serif;*/
   font-family: 'Open Sans', sans-serif;
   color:white;
@@ -24,16 +26,25 @@ body
 #name
 {
   font-size: 4em;
+  padding: 0px;
+  margin: 0px;
 }
 #subtitle
 {
   font-size: 1em;
+  padding: 0px;
+  margin: 0px;
 }
 #main a
 {
   color: white;
   margin-left: 10px;
   margin-right: 10px;
+  text-decoration: none;
+}
+#main i
+{
+  margin-right: 5px;
 }
 #main div
 {
@@ -50,15 +61,29 @@ body
   padding-top: 20vh;
   text-align: center;
   height:100%;
-  width: 48%;
+  width: 50%;
+}
+#links_div
+{
+  margin-top: 100px;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+#links_div a
+{
+  margin-top: 2px;
+  margin-right: 2px;
+  display: block;
 }
 #info
 {
   float:right;
   /*color: black;*/
   height:100vh;
-  /*background-color: rgba(255,255,255, .99);*/
-  width:48%;
+  /*background-color: rgba(155, 89, 182,.2);*/
+  width:50%;
   /*margin-left: 0;*/
   /*margin-right:0;*/
 }
