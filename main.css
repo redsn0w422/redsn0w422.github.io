@@ -1,0 +1,28 @@
+html
+{
+  background: url('img/sanfran_4k.jpg') no-repeat center center fixed;
+}
+body
+{
+  font-family: "Arial", sans-serif;
+  color:white;
+}
+#name
+{
+    font-size: 4em;
+}
+#subtitle
+{
+  font-size: 2em;
+}
+#main a
+{
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#main
+{
+  padding-top: 20vh;
+  text-align: center;
+}
