@@ -16,12 +16,23 @@ body
   font-family: 'Open Sans', sans-serif;
   color:white;
   margin:0px;
+  /*position:absolute;*/
+}
+a
+{
+  color:white;
+  text-decoration: none;
 }
 .container
 {
   overflow: hidden;
   /*float:left;*/
   /*clear:none;*/
+}
+#img_me
+{
+  width:300px;
+  height:auto;
 }
 #name
 {
@@ -55,7 +66,7 @@ body
 {
   float: left;
   /*display:inline-block;*/
-  /*background-color: rgba(0,0,0,.4);*/
+  /*background-color: rgba(231, 76, 60,.5);*/
   /*margin-left: 0;*/
   /*margin-right: 0;*/
   padding-top: 20vh;
@@ -82,8 +93,45 @@ body
   float:right;
   /*color: black;*/
   height:100vh;
-  /*background-color: rgba(155, 89, 182,.2);*/
+  /*background-color: rgba(44, 62, 80,.5);*/
   width:50%;
   /*margin-left: 0;*/
   /*margin-right:0;*/
+  text-align: center;
+  overflow: scroll;
+}
+.bounce
+{
+  float:right;
+  margin-right: 20px;
+}
+.title
+{
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size:2em;
+  text-align: left;
+  margin-top: 10%;
+}
+.project-title
+{
+  font-weight: bold;
+}
+.project-title i
+{
+  margin-right: 5px;
+}
+.project-desc
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width:400px;
+}
+.project-img
+{
+  margin-left: auto;
+  margin-right: auto;
+  height:auto;
+  width:300px;
 }
