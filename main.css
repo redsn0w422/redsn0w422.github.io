@@ -138,3 +138,32 @@ a
   height:auto;
   width:300px;
 }
+.post-title
+{
+  font-weight: bold;
+  /*color: rgb(155, 89, 182);*/
+  text-align: left;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+.post-title i
+{
+  margin-right: 5px;
+  /*color: rgb(155, 89, 182);*/
+}
+.post-desc
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  width:400px;
+}
+.post-img
+{
+  margin-left: auto;
+  margin-right: auto;
+  height:auto;
+  width:300px;
+}
