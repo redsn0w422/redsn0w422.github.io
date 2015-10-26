@@ -127,11 +127,16 @@ a
 }
 .blog-post-content
 {
-  width:400px;
+  width:450px;
   margin-left: auto;
   margin-right: auto;
   text-align: left;
   padding-top: 15%;
+  font-size:20px;
+}
+.text-center
+{
+  text-align: center;
 }
 /*.post-title
 {
