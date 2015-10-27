@@ -3,6 +3,10 @@
 html
 {
   background: url('img/dock.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   /*background-color: rgba(0,0,0,.4);*/
   /*background-image: url('img/sanfran_4k.jpg');*/
   /*background-repeat: no-repeat;*/
