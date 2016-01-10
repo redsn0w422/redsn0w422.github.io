@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hi, it&#39;s yasha</title>
+    <description>todo: coherently describe this site.
+</description>
+    <link>http://yashamostofi.com//</link>
+    <atom:link href="http://yashamostofi.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jan 2016 21:59:06 -0600</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 21:59:06 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>New Things</title>
+        <description>&lt;p&gt;I’ve wanted to blog for a &lt;em&gt;long time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A little while back, I finally set up this page.
+I whipped together a &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; page, threw it on
+&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Static Pages&lt;/a&gt;, and now here I am, &lt;strong&gt;blogging.&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;blogging-at-3-am&quot;&gt;blogging, at 3 am&lt;/h1&gt;
+
+&lt;p&gt;So for all potential readers - here are some things I’d like to clear up:&lt;/p&gt;
+
+&lt;h3 id=&quot;i-am-not-a-particularly-good-writer&quot;&gt;1. I am not a particularly good writer.&lt;/h3&gt;
+
+&lt;p&gt;I always have struggled with writing in the past,
+and this blog will be no exception. expect plenty of grammar errors,
+poor word choice, and other face-palm moments.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-do-however-enjoy-describing-my-ideas&quot;&gt;2. I do, however, enjoy describing my ideas.&lt;/h3&gt;
+
+&lt;p&gt;I’ve always loved expressing my ideas, but joining &lt;a href=&quot;http://www.edline.net/pages/ICDA&quot;&gt;ICDA&lt;/a&gt;
+(debate team) in high school really brought that to life.
+I figured this blog would serve as a collection of my thoughts, both short and long.&lt;/p&gt;
+
+&lt;h3 id=&quot;there-will-be-no-consistency&quot;&gt;3. There will be no consistency.&lt;/h3&gt;
+
+&lt;p&gt;Expect no consistency in terms of content, length,
+formatting, and most importantly, some resemblance of a schedule.
+I’ll post stuff when I want to, whenever my course load drops a bit, or I
+find myself enjoying some excellent coffee.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 14:53:00 -0600</pubDate>
+        <link>http://yashamostofi.com//2016/01/09/new-things.html</link>
+        <guid isPermaLink="true">http://yashamostofi.com//2016/01/09/new-things.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
