@@ -1,11 +1,10 @@
 # Site settings
-title: yasha's blog
+title: hi, it's yasha
 email: yasha.mostofi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  here, this very page, are yasha's thoughts.
-  note: I am not very good at writing.
+  todo: coherently describe this site.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.yashamostofi.com/" # the base hostname & protocol for your site
+url: "http://yashamostofi.com/" # the base hostname & protocol for your site
 twitter_username: ymostofi
 github_username: redsn0w422
 
