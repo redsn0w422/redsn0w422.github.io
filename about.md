@@ -12,7 +12,7 @@ but I hope to expand my reaches within the near future.
 I joined a small research team and published [a paper](/img/paper1.pdf) about our
 supercomputer analytics tool this past semester.
 
-Before I forget, [here's my resume.](/img/resume_jan_4_2016.pdf)
+Before I forget, [here's my resume.](/img/resume.pdf)
 
 ##Here are some past projects:
 
