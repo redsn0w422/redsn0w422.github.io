@@ -58,4 +58,4 @@ On my way back to Union Station, I found a different Starbucks and wrapped up a 
 
 ![coding challenge](/img/akuna/coding_challenge.jpg)
 
-I really love computer science. That day really validated one of the two reasons: variety. Computer science is _literally_ being used in every single industry. My goal, during these next few years, is to see the different areas I can work in after I graduate. The other reason I like computer science is accessibility, and I guess we'll save that for another blog post.
+That day really validated one of the two reasons: variety. Computer science is _literally_ being used in every single industry. My goal, during these next few years, is to see the different areas I can work in after I graduate. The other reason I like computer science is accessibility, and I guess we'll save that for another blog post.
