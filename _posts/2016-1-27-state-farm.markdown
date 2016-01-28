@@ -19,10 +19,7 @@ State Farm is headquartered in Bloomington, IL, but operates a satellite office 
 include Yahoo, Agrible, AkunaCapital (which you can read about [here]({{ site.url }}/life/2016/01/25/akuna-capital.html)), Caterpillar, and John Deere. The office I work out of is called the Research and Development Center.
 Essentially, Research Park companies hire talent like students - both undergrad and graduate - and faculty with
 the goal of building new technology.
-
-
-I snaapped a few pictures of the Park on my walk from the bus stop.
-
+ 
 ![Research Park sign](/img/statefarm/walk_1.jpg)
 
 ![Caterpillar's office](/img/statefarm/walk_2.jpg)
@@ -33,7 +30,7 @@ I snaapped a few pictures of the Park on my walk from the bus stop.
 
 **When I arrive,** I have to swipe in to enter the office. At first glance, it looks a little old-fashioned-IBM-cubile style, 
 but there are some hidden more modern, Silicon-Valley  touches. For example, I have a standing desk, there are free snacks, soda on tap (with Mountain Dew), 
-and a coffee machine (which _costs_ me $1).
+and a coffee machine (which costs me $1).
 
 ![office](/img/statefarm/office.jpg)
 
@@ -45,7 +42,7 @@ and a coffee machine (which _costs_ me $1).
 
 ## My Desk
 
-**At my desk,** I currently have _four_ laptops, and two monitors. 
+**At my desk,** I currently have four laptops, and two monitors. 
 State Farm has a lot of security measures in place, and it's critical that I abide by those measures.
 One of the laptops is my designated "State Farm intranet laptop." That means that the only laptop I can check email on, 
 or sign into Skype for Business, or even fill out my weekly timesheets. The other three laptops also serve various purposes:
@@ -55,9 +52,3 @@ to actually code, and the last laptop is basically "off-the-shelf" (I can litera
 
 
 ![desk close](/img/statefarm/desk_close_edit.jpg)
-
-![desk switch](/img/statefarm/desk_switch.jpg)
-
-### Did I mention it's a standing desk?
-
-![office](/img/statefarm/desk_up_edit.jpg)
