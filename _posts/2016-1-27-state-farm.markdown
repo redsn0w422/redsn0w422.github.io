@@ -31,12 +31,11 @@ I snaapped a few pictures of the Park on my walk from the bus stop.
 
 ## The Office
 
-![office](/img/statefarm/office.jpg)
-
 **When I arrive,** I have to swipe in to enter the office. At first glance, it looks a little old-fashioned-IBM-cubile style, 
 but there are some hidden more modern, Silicon-Valley  touches. For example, I have a standing desk, there are free snacks, soda on tap (with Mountain Dew), 
 and a coffee machine (which _costs_ me $1).
 
+![office](/img/statefarm/office.jpg)
 
 ![soda on tap](/img/statefarm/soda_tap.jpg)
 
@@ -62,5 +61,3 @@ to actually code, and the last laptop is basically "off-the-shelf" (I can litera
 ### Did I mention it's a standing desk?
 
 ![office](/img/statefarm/desk_up_edit.jpg)
-
-
