@@ -73,3 +73,5 @@ the wednesday before, involved stuffing over 1200 swag bags for the hackers. In 
 The rest of the day involved setting up rooms, banners, tables, etc. in the two buildings we were using for the event. Rather than going into much detail, I think this screenshot describes that day rather well:
 
 ![](/img/hackillinois2016/step_count.png)
+
+
