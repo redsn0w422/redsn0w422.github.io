@@ -9,10 +9,10 @@ permalink: /about/
 I'm currently a student at UIUC studying computer science and working as a systems intern at State Farm. Right now, I enjoy developing for the web,
 but I hope to expand my reaches within the near future.
 
-I joined a small research team and published [a paper]({{ site.url }}/img/paper1.pdf) about our
+I joined a small research team and published [a paper](/img/paper1.pdf) about our
 supercomputer analytics tool this past semester.
 
-Here's [my resume.]({{ site.url }}/img/resume.pdf)
+Here's [my resume.](/img/resume.pdf)
 
 ##Here are some past projects:
 
