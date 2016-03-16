@@ -74,4 +74,38 @@ The rest of the day involved setting up rooms, banners, tables, etc. in the two 
 
 ![](/img/hackillinois2016/step_count.png)
 
+## We laid out _a lot_ of snacks.
 
+<div class="row">
+	<div class="col-md-6">
+		<img src="/img/hackillinois2016/snacks.jpg">
+	</div>
+	<div class="col-md-6">
+		<img src="/img/hackillinois2016/more_snacks.jpg">
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="col-xs-12">
+		<img src="/img/hackillinois2016/HackIllinois_2016-Feb-19.jpg">
+	</div>
+</div>
+<br>
+<div class="row">
+	<div class="col-md-6">
+		<img src="/img/hackillinois2016/company_mixing.jpg">
+	</div>
+	<div class="col-md-6">
+		<img src="/img/hackillinois2016/company_mixing_2.jpg">
+	</div>
+</div>
+
+
+And the event was off to a great start. We
+
+
+## Even though the weekend was great, this was the best part:
+
+Yay [@Saurik!](http://www.twitter.com/saurik)
+
+![](/img/hackillinois2016/accepted_friend_request.jpg)
