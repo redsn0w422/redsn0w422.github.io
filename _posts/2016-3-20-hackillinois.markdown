@@ -101,7 +101,7 @@ The rest of the day involved setting up rooms, banners, tables, etc. in the two 
 
 <div class="row text-center">
 	<div class="col-xs-12">
-		<h1>HackIllinois 2016: Day-by-Day</h1>
+		<h1><b>HackIllinois 2016:</b> Day-by-Day</h1>
 	</div>
 </div>
 
