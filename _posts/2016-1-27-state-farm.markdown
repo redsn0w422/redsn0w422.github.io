@@ -2,7 +2,6 @@
 layout: post
 title:  "State Farm, 2nd Semester"
 date:   2016-01-27 14:00:00
-categories: life
 ---
 
 # State Farm, My 2nd Semester

@@ -2,7 +2,6 @@
 layout: post
 title:  "AkunaCapital Visit"
 date:   2016-01-25 20:30:00
-categories: life
 ---
 
 # On January 13th,

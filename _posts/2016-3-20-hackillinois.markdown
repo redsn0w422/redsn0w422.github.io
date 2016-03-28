@@ -2,7 +2,6 @@
 layout: post
 title:  "HackIllinois 2016"
 date:   2016-03-20 00:40:00
-categories: life
 ---
 
 # This year,
@@ -134,5 +133,3 @@ Sunday was the last day, which meant a majority of staff was in the Union settin
 I met [@Saurik!](http://www.twitter.com/saurik)
 
 ![](/img/hackillinois2016/saurik.jpg)
-
-![](/img/hackillinois2016/accepted_friend_request.jpg)
