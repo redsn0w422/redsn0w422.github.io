@@ -28,12 +28,20 @@ Since I'm a seasoned [Hackathon Hacker](https://www.facebook.com/groups/hackatho
 
 ## Here's our group picture:
 
-![staff picture](/img/hackillinois2016/hackillinois_staff_serious.jpg)
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/hackillinois_staff_serious.jpg">
+	</div>
+</div>
 
 ## The Wednesday before,
 our last staff meeting involved stuffing over 1200 swag bags for the hackers. In the bag, we gave out plenty of sponsor swag and some HackIllinois swag as well, including Facebook socks, a cool GitHub sticker, a metal HackIllinois-branded cup, a bottle of [Soylent](http://www.soylent.com), and some HackIllinois stickers.
 
-![swag bags](/img/hackillinois2016/swag_bags.png)
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/swag_bags.png">
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-sm-6">
@@ -62,8 +70,12 @@ our last staff meeting involved stuffing over 1200 swag bags for the hackers. In
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/start_with_coffee_hw.jpg">
+	</div>
+</div>
 
-![](/img/hackillinois2016/start_with_coffee_hw.jpg)
 
 ## My Friday began with coffee and homework.
 (Spoiler: I didn't finish the assignment...)
@@ -71,7 +83,11 @@ our last staff meeting involved stuffing over 1200 swag bags for the hackers. In
 
 The rest of the day involved setting up rooms, banners, tables, etc. in the two buildings we were using for the event. Rather than going into much detail about setup, I think this screenshot describes it rather well:
 
-![](/img/hackillinois2016/step_count.png)
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/step_count.png">
+	</div>
+</div>
 
 ## We laid out _a lot_ of snacks.
 
@@ -83,6 +99,7 @@ The rest of the day involved setting up rooms, banners, tables, etc. in the two 
 		<img src="/img/hackillinois2016/more_snacks.jpg">
 	</div>
 </div>
+
 <div class="row">
 	<div class="col-xs-12">
 		<img src="/img/hackillinois2016/HackIllinois_2016-Feb-19.jpg">
@@ -100,7 +117,7 @@ The rest of the day involved setting up rooms, banners, tables, etc. in the two 
 
 <div class="row text-center">
 	<div class="col-xs-12">
-		<h1><b>HackIllinois 2016:</b> Day-by-Day</h1>
+		<h1 id="day-by-day-title"><b>HackIllinois 2016:</b> Day-by-Day</h1>
 	</div>
 </div>
 
@@ -118,7 +135,11 @@ By late Saturday, most of staff had realized we were **really** packed with hack
 
 Two hours before these cookies were supposed to arrive, Core realized that Apple had already ordered sufficient cookies. We didn't want to wait on the phone again, so I decided I would take an Uber to the store to cancel the order as fast as possible. Here's the receipt I got from the Uber ride:
 
-![](/img/hackillinois2016/uber_circle.png)
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/uber_circle.png">
+	</div>
+</div>
 
 Yes, that's correct. I never got out of the car. As we were arriving at the store, I was told that we were able to cancel the order over the phone, and my trip was no longer needed. I embarrassingly asked my driver if he could take me back, and then sat quietly in the car hoping that my Uber passenger rating wouldn't go down because of this. After the ride, I headed back home, anxiously awaiting my shower.
 
@@ -132,4 +153,8 @@ Sunday was the last day, which meant a majority of staff was in the Union settin
 
 I met [@Saurik!](http://www.twitter.com/saurik)
 
-![](/img/hackillinois2016/saurik.jpg)
+<div class="row">
+	<div class="col-xs-12">
+		<img class="full-img" src="/img/hackillinois2016/saurik.jpg">
+	</div>
+</div>

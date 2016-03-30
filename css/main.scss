@@ -53,5 +53,17 @@ $on-laptop:        800px;
 
 img
 {
-    padding: 10px;
+    // padding: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.full-img
+{
+	width: 100vw !important;
+	z-index: 0;
+}
+
+#day-by-day-title
+{
+	margin-top:35px;
 }
