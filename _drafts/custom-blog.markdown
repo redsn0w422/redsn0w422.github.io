@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Custom Blog"
+title:  "Custom Blog Part 1/?"
 date: 2016-4-6 20:39:00
 ---
 
@@ -8,7 +8,7 @@ date: 2016-4-6 20:39:00
 
 Don't get me wrong, Jekyll is great.
 
-But wouldn't it be awesome if you saw `don't get me wrong, but jekyll is great` _somewhere_
+But wouldn't it be awesome if you saw `Don't get me wrong, but Jekyll is great` _somewhere_
 on the blog before clicking on this post?
 
 That's why I decided to create my own static site generator, partially because I want to have
