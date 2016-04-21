@@ -24,7 +24,7 @@ Here's [my resume.](/img/resume.pdf)
   <div class="col-xs-4">
     <a href="https://twitter.com/ymostofi">
     <i class="fa fa-twitter"></i>
-    <span>@ymostofi</span>
+    <span>ymostofi</span>
     </a>
   </div>
   <div class="col-xs-4">
