@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#Hi, it's Yasha
+# Hi, it's Yasha
 
 I'm currently a student at UIUC studying computer science and working as a systems intern at State Farm. Right now, I enjoy developing for the web,
 but I hope to expand my reaches within the near future.
@@ -14,7 +14,29 @@ supercomputer analytics tool this past semester.
 
 Here's [my resume.](/img/resume.pdf)
 
-##Here are some past projects:
+<div class="row">
+  <div class="col-xs-4">
+    <a href="https://github.com/redsn0w422">
+    <i class="fa fa-github"></i>
+    <span>redsn0w422</span>
+    </a>
+  </div>
+  <div class="col-xs-4">
+    <a href="https://twitter.com/ymostofi">
+    <i class="fa fa-twitter"></i>
+    <span>@ymostofi</span>
+    </a>
+  </div>
+  <div class="col-xs-4">
+    <a href="https://scholar.google.es/citations?user=UYU6J64AAAAJ&hl=en">
+    <i class="fa fa-graduation-cap"></i>
+    <span>Google Scholar</span>
+    </a>
+  </div>
+</div>
+<br>
+
+## Here are some of my projects:
 
 1. [3DSnap](http://github.com/redsn0w422/boilermake2015/)
 | Snapchat-like app for 3D snapchats. Supports 3DS and mobile phones using [Google Cardboard.](http://www.google.com/get/cardboard/)
