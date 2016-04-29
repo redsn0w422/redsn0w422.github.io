@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/yasha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yashamostofi.com
+  * I am yasha (https://keybase.io/yasha) on keybase.
+  * I have a public key ASDXsOO7mbdUVJzk510beYELSx3EQ1Qn8VehP2157G2iBQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d7b0e3bb99b754549ce4e75d1b79810b4b1dc4435427f157a13f6d79ec6da2050a",
+            "host": "keybase.io",
+            "kid": "0120d7b0e3bb99b754549ce4e75d1b79810b4b1dc4435427f157a13f6d79ec6da2050a",
+            "uid": "93df81cde5ec197fec96ccabb8f5cc19",
+            "username": "yasha"
+        },
+        "service": {
+            "hostname": "yashamostofi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1461943185,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1461942810,
+        "hash": "5661715699f49110f0d4a9da4f1d039981044689a1e60c9a99f86ba19dfeb808d21aa5d656c8de54b9fa6caedc6d138812293702b43f95b351195838b39a1cfc",
+        "seqno": 453537
+    },
+    "prev": "7f80de5d10f36ace3a2ed58016c591ca7d215453193eb216ab12c7e27c72942d",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg17Dju5m3VFSc5OddG3mBC0sdxENUJ/FXoT9teextogUKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDdiMGUzYmI5OWI3NTQ1NDljZTRlNzVkMWI3OTgxMGI0YjFkYzQ0MzU0MjdmMTU3YTEzZjZkNzllYzZkYTIwNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDdiMGUzYmI5OWI3NTQ1NDljZTRlNzVkMWI3OTgxMGI0YjFkYzQ0MzU0MjdmMTU3YTEzZjZkNzllYzZkYTIwNTBhIiwidWlkIjoiOTNkZjgxY2RlNWVjMTk3ZmVjOTZjY2FiYjhmNWNjMTkiLCJ1c2VybmFtZSI6Inlhc2hhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ5YXNoYW1vc3RvZmkuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNSJ9LCJjdGltZSI6MTQ2MTk0MzE4NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYxOTQyODEwLCJoYXNoIjoiNTY2MTcxNTY5OWY0OTExMGYwZDRhOWRhNGYxZDAzOTk4MTA0NDY4OWExZTYwYzlhOTlmODZiYTE5ZGZlYjgwOGQyMWFhNWQ2NTZjOGRlNTRiOWZhNmNhZWRjNmQxMzg4MTIyOTM3MDJiNDNmOTViMzUxMTk1ODM4YjM5YTFjZmMiLCJzZXFubyI6NDUzNTM3fSwicHJldiI6IjdmODBkZTVkMTBmMzZhY2UzYTJlZDU4MDE2YzU5MWNhN2QyMTU0NTMxOTNlYjIxNmFiMTJjN2UyN2M3Mjk0MmQiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECYdKbg5U7rixiM1dCQOrc/RTsstuqg0UEuHgK/aoUJl3RLRzvzDDvV440208K163lFiMnV5RAS2rhlzgJOW+kKqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yasha
+
+==================================================================
