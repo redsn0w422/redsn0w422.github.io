@@ -4,9 +4,9 @@ title:  "Summer Sixteen"
 date:   2016-6-13 21:52:00
 ---
 
-# Summer Sixteen
+# This summer,
 
-This summer, I decided to stay in the Champaign-Urbana area. I'm not taking any summer classes because I decided against doing that every again junior year of high school after four consecutive years of summer school. Instead, the majority of my time is devoted to interning, with the remaining hours of the day going to either my own projects or research. This blog post is (hopefully) part of a series of posts for this summer, detailing the highs, lows, and everything in between. This introductory post has quite the agenda:
+I decided to stay in the Champaign-Urbana area. No, I'm not taking any summer classes - I decided against doing that every again junior year of high school after four consecutive years of summer school. Instead, the majority of my time is devoted to interning, with the remaining hours of the day going to either my own projects or research. This blog post is (hopefully) part of a series of posts for this summer, detailing the highs, lows, and everything in between. This introductory post has quite the agenda:
 
 - Intel
 - new computer
@@ -22,7 +22,7 @@ I took my last final exam May 12th, and promptly packed up all of my belongings.
 
 As for work, I'm interning at Intel, as part of the software development tools team. Intel provides a tool called Intel Processor Trace, and the work I'm doing revolves mostly that. Once the summer is over, and more importantly, I am more confident in what I can and cannot talk about, I'll write a post about that, too.
 
-My first day officially started at 8 am, but the new employee training didn't start until 1, so I had the morning to myself. I went grocery shopping and setup my desk in my apartment. The thing I was most anxious about - and didn't learn about until a few days after - was whether or not I was eligible for some sort of employee discount. My desktop at the time was long overdue for an upgrade, and being an Intel employee (even for just the summer) meant I had to at least try to get top of the line performance.
+My first day officially started at 8 am, but the new employee training didn't start until 1, so I had the morning to myself. I went grocery shopping and setup my desk in my apartment. The thing I was most anxious about - and didn't learn about until a few days after - was whether or not I was eligible for some sort of employee discount. My desktop at the time was long overdue for an upgrade, and being an Intel employee (even if for just a summer) meant I had to at least try to get top of the line performance.
 
 ## New Computer
 
@@ -34,7 +34,7 @@ Few days after I started working, I stumbled upon the Employee Purchase Program 
 - Corsair 450D
 
 The rest of my components I transferred over from my old build:
-- GTX-780ti
+- GTX 780ti
 - Samsung 850 EVO 500 GB SSD
 - some 1 TB HDD
 - Corsair AX-860 power supply
@@ -49,7 +49,9 @@ I think I spent about three or four hours at the nearest REI checking out differ
 
 ## Living in Champaign
 
-Not much to say here. It sucks.
+Not much to say here. It sucks. Except for the food.
+
+![black dog](/img/black_dog.jpg)
 
 ## Raspberry Pi
 
