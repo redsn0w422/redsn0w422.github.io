@@ -34,6 +34,7 @@ Few days after I started working, I stumbled upon the Employee Purchase Program 
 - Corsair 450D
 
 The rest of my components I transferred over from my old build:
+
 - GTX 780ti
 - Samsung 850 EVO 500 GB SSD
 - some 1 TB HDD
