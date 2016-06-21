@@ -6,7 +6,7 @@ date:   2016-6-13 21:52:00
 
 # This summer,
 
-I decided to stay in the Champaign-Urbana area. No, I'm not taking any summer classes - I decided against doing that every again junior year of high school after four consecutive years of summer school. Instead, the majority of my time is devoted to interning, with the remaining hours of the day going to either my own projects or research. This blog post is (hopefully) part of a series of posts for this summer, detailing the highs, lows, and everything in between. This introductory post has quite the agenda:
+I'm staying in the Champaign-Urbana area. No summer classes - after four summers of class, I decided against doing that ever again. Instead, the majority of my time is devoted to interning, with the remaining hours of the day going to either my own projects or research. This blog post is (hopefully) part of a series of posts for this summer, detailing the highs, lows, and everything in between. This introductory post has quite the agenda:
 
 - Intel
 - new computer
@@ -22,11 +22,11 @@ I took my last final exam May 12th, and promptly packed up all of my belongings.
 
 As for work, I'm interning at Intel, as part of the software development tools team. Intel provides a tool called Intel Processor Trace, and the work I'm doing revolves mostly that. Once the summer is over, and more importantly, I am more confident in what I can and cannot talk about, I'll write a post about that, too.
 
-My first day officially started at 8 am, but the new employee training didn't start until 1, so I had the morning to myself. I went grocery shopping and setup my desk in my apartment. The thing I was most anxious about - and didn't learn about until a few days after - was whether or not I was eligible for some sort of employee discount. My desktop at the time was long overdue for an upgrade, and being an Intel employee (even if for just a summer) meant I had to at least try to get top of the line performance.
+My first day officially started at 8 am, but the new employee training didn't start until 1, so I had the morning to myself. I went grocery shopping and setup my desk in my apartment. The thing I was most anxious about - and didn't learn about until a few days after - was whether or not I was eligible for some sort of employee discount. My desktop at the time was long overdue for an upgrade, and being an Intel employee (even if for just a summer) meant I had to at least try to get bleeding-edge performance.
 
 ## New Computer
 
-Few days after I started working, I stumbled upon the Employee Purchase Program site, and all my dreams came true. I was able to order a brand new i7-6700k for a new computer, heavily discounted. And just last weekend, three weeks into my internship, I ordered all of the parts for my new build.
+Few days after I started working, I stumbled upon the Employee Purchase Program site, and all my dreams came true. I was able to order a brand new i7-6700k for a new computer, heavily discounted. Three weeks into my internship, I ordered all of the parts for my new build.
 
 - i7-6700k
 - Gigabyte Z170X Gaming 7
@@ -45,13 +45,11 @@ As I write this post, I'm still in Champaign, eagerly waiting for this upcoming 
 
 Backpacks, backpacks, backpacks. Or, to be less specific, bags. I think I have a bag problem. I have a lot of bags. I think each bag has a specific purpose - some sort of activity that greatly benefits from that bag style and no other ones. Which is why I have many bags, but four nice bags. Three of them are Timbuk2 - messenger, small backpack, and a massive, 40L roll-top  -  a high-quality and fantastic-looking bag company. Last one, and also the newest in the bag-clan, an Osprey. I recently discovered Osprey as a brand in general when I saw one in the wild and decided they look awesome. I also read about them a lot on r/buyitforlife, a subreddit that basically embodies my own purchasing style. I decided I wanted to get one with a wire-frame, since they push the actual bag away from your back and only the top and bottom touch, which greatly increases airflow and consequently decreases back-sweat.
 
-I think I spent about three or four hours at the nearest REI checking out different bags, different sizes, different styles, but my indecisiveness didn't let me pick one out. This is why credit cards are great - I walked out of REI with five different backpacks, fully knowing that I would return four of them, and maybe even all five if I really couldn't decide. I didn't really have time to test them out even more at home, so I just laid them out in my bedroom, and over the course of the next week, would have random encounters with different ones, until I eventually decided to just return them all. But, all hope was not lost. I had really liked the Radial 34 - great design, amazing quality, and the wire-frame did exactly what I wanted. The pocketing perfectly suited my needs, and I was almost ready to keep that bag. However, the water bottle holders on the site were horrible. Rather than the common mesh, the radial had two zipper pockets (??) on the side for water bottles, and didn't really hold anything in there at all. I usually forget to put on shoes before my backpack, so a lot of the time I'll bend over to put on and tie my shoes with my backpack on. Every time I did that with the radial 34, one (or both) of the bottles fell out. And using stainless steel bottles meant that the life of the bottle would be cut down drastically, so I went back to the drawing board. After some more online research, I found the radial 26 - the 34's smaller sized version. Osprey probably released the 26 after the 34, because the 26's side water bottle holders were mesh! This bag was the one. I ordered that one online, and returned the other five, extremely satisfied with my new purchase. I've been using the bag for about a month now, and it's fantastic. (I could probably even write backpack reviews ...)
+I think I spent about three or four hours at the nearest REI checking out different bags, different sizes, different styles, but my indecisiveness didn't let me pick one out. This is why credit cards are great - I walked out of REI with five different backpacks, fully knowing that I would return four of them, and maybe even all five if I really couldn't decide. I didn't really have time to test them out even more at home, so I just laid them out in my bedroom, and over the course of the next week, would have random encounters with different ones, until I eventually decided to just return them all. But, all hope was not lost. I had really liked Osprey's Radial 34 - great design, amazing quality, and the wire-frame did exactly what I wanted. The pocketing perfectly suited my needs, and I was almost ready to keep that bag. However, the water bottle holders on the site were horrible. Rather than the common mesh, the radial had two zipper pockets (??) on the side for water bottles, and didn't really hold anything in there at all. I usually forget to put on shoes before my backpack, so a lot of the time I'll bend over to put on and tie my shoes with my backpack on. Every time I did that with the radial 34, one (or both) of the bottles fell out. And using stainless steel bottles meant that the life of the bottle would be cut down drastically, so I went back to the drawing board. After some more online research, I found the radial 26 - the 34's smaller sized version. Osprey probably released the 26 after the 34, because the 26's side water bottle holders were mesh! This bag was the one. I ordered that one online, and returned the other five, extremely satisfied with my new purchase. I've been using the bag for about a month now, and it's fantastic. (I could probably even write backpack reviews ...)
 
 ## Living in Champaign
 
-Not much to say here. It sucks. Except for the food.
-
-![black dog](/img/black_dog.jpg)
+Not much to say here.
 
 ## Raspberry Pi
 
@@ -71,11 +69,11 @@ Negative: It does get pretty distracting. I listened to an episode of The Talk S
 
 ## Soda
 
-Speaking of The Talk Show, John Gruber opens episode # ??? with a statement I completely agree with:
+Speaking of [The Talk Show](https://daringfireball.net/thetalkshow), John Gruber opens [ep-153](https://daringfireball.net/thetalkshow/2016/05/06/ep-153) with a statement I completely agree with:
 
 > To be successful, you need three things:
 >
-> - A fussy way to make coffee, good coffee
+> - A fussy way to make coffee, real good coffee
 > - Carbonated water
 > - A clicky keyboard
 
