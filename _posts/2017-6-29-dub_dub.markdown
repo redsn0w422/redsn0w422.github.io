@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "dub dub"
+date:   2017-07-29 20:00:08
+categories: 
+---
+Last summer, I was working in Champaign, IL, and one of my goals for 2017 was to work in the Bay Area. Compared to Champaign, the Bay Area has a **lot** more events that I’m interested in attending.  At the top of my list? WWDC. I’ve wanted to go for a few years now, and this summer, I ended up in San Francisco - which is where WWDC has been located for the past 15 years.
+
+## hopes and dreams
+
+Not this year. I signed my offer to be in SF in November 2016, and this past Spring, when Apple announced the WWDC dates, they also said it would be located in San Jose, not San Francisco. I already wasn’t planning on attending the actual conference - I would have to take a full week off work, and tickets are $1600, assuming the lottery ended favorably. I just wanted to be there at the same time - to experience the vibe, meet a lot of people I’ve heard about and follow on Twitter, and most importantly, go to Blue Bottle in the morning just to see the crazy WWDC lines everyone always complains about. Fortunately, San Jose is a short (1-1.5 hours) CalTrain ride away, so I started looking at my options. There’s AltConf, which is like a free co-conference that's been organized for the past few years. AltConf books a nearby venue and streams the Keynote and Platforms State of the Union, along with having additional panels and talks. I got my ticket for that, and also saw that [ATP](http://atp.fm) was hosting a live recording. I had listened to their show a few times, and tickets were only $5, so I decided I’d spend Monday evening in San Jose for that. The night before Keynote Day, I actually decided to just spend the whole day in San Jose, since I could watch the Keynote there, and get to experience WWDC as if I was _almost_ there. The last thing I had to go to was [John Gruber’s](http://twitter.com/gruber/) The Talk Show Live. I read [Daring Fireball](http://www.daringfireball.net/) *all* the time, and listen to his podcast as well. I really wanted to see his Live show because two years ago he had Phil Schiller as a guest, and last year he had both Schiller and Craig Federighi, which means this year **had** to be as good (or better).  His show was on Tuesday of WWDC week, and his tickets went on sale the Thursday before. He tweeted about it Wednesday night, and I was ready to buy right at 9 AM on Thursday when they went on sale. I ended up getting a ticket, and found out that they sold out _really_ quickly: 
+
+![sold out](/img/dub_dub_2017/sold_out_tweet.png)
+
+I was going! Even though this wasn’t the ideal WWDC experience, it was going to be an experience nonetheless. 
+
+## keynote <s>day</s> morning
+I took an absurdly early CalTrain down to San Jose (like 6 AM or something) because I knew that the Keynote started at 10, and I wanted to make sure I knew where I was going and wanted to get a good spot. When I arrived, I saw a ton of WWDC stuff - the lamp posts on streets had banners hanging, and I got really excited. I was basically at WWDC.
+
+![convention stop](/img/dub_dub_2017/wwdc_conv_stop.jpg)
+
+![wwdc line 2](/img/dub_dub_2017/wwdc_line_2.jpg)
+
+![wwdc line](/img/dub_dub_2017/wwdc_line.jpg)
+
+![big banner](/img/dub_dub_2017/big_banner.jpg)
+
+After taking the VTA to the actual convention center (there’s a stop right in front of it), I saw the **massive** line of people outside, with more  banners on the convention center. They had speakers set up, playing some awesome music. At about 8 AM, I looked at my email from AltConf to see where I had to go and noticed that the hotel they had booked, was _literally connected_ to the convention center. I had to take the long way to get to the hotel, as San Jose Police had set up road blocks around the actual line and were checking for official badges (which I didn’t have) to let people in, so I poked around in the hotel and figured out where we were supposed to line up. This is what I saw when I went in line.
+
+![watching line](/img/dub_dub_2017/watching_line.jpg)
+
+I was literally watching the WWDC line, the one I see at least 50 tweets of every year. As the line for ALtConf grew, I people-watched both the WWDC and AltConf attendees. First, _not_ having an Apple Watch or AirPods put you in the minority (fortunately I at least had AirPods), and second, the WWDC jackets looked **awesome**. At about 9, the AltConf organizers let us inside, and had gotten us breakfast burritos, which was awesome. Everyone filed inside the large ballroom, anxiously waiting for the Keynote to begin. Volunteers started bringing around flat whites, as they had hired a barista who had set up a little booth outside the main ballroom. 
+ 
+![coffee](/img/dub_dub_2017/alt_coffee_tweet.png)
+
+### keynote mini-review
+It was awesome. And it went by really quickly. ARKit is cool.
+
+![keynote stream](/img/dub_dub_2017/keynote_stream_prep.jpg)
+
+![keynote during](/img/dub_dub_2017/keynote_during.jpg)
+
+## food
+I had like four or five hours before ATP Live, so I decided to do some work in the hotel lobby (and charge my phone). After about an hour, I wanted to eat, so I turned to Yelp. I was simultaneously looking for food and good coffee, and discovered that Social Policy was pretty high on the coffee list, and also in the “top 20” for food. It was a short walk away, so I decided to check it out.
+
+![literally wwdc](/img/dub_dub_2017/literally_wwdc.jpg)
+
+> (breaking chronological order)
+> When I was listening to ATP’s post-WWDC episode, I realized that apparently Social Policy was **the** place to go when there wasn’t something big going on. Marco Arment said he was there a ton WWDC week (he didn't have a ticket), and it makes me really satisfied with my Yelp-o-meter skills.
+
+![social policy coffee](/img/dub_dub_2017/social_policy_coffee.jpg)
+
+![social policy lunch](/img/dub_dub_2017/social_policy_lunch.jpg)
+
+After grabbing a quick meal, I decided to head back to the hotel and see what was going on, and to get some more work done.
+
+> I probably should have stayed at Social Policy longer.
+
+There was already a line for ATP live, and I decided to get in line to make sure I have a good seat. I caught up on Twitter, read some articles about the iMac Pro, skimmed over what was said in the Platforms State of the Union, and before I knew it, we headed inside for the show. 
+
+![atp line](/img/dub_dub_2017/atp_line.jpg)
+
+![atp prep](/img/dub_dub_2017/atp_prep.jpg)
+
+## atp
+I should have bought one of the ATP shirts when they were available. Pretty much everyone was wearing some sort of ATP shirt. 
+
+The show was really funny, and I really liked it. 
+
+Everyone sang the theme song at the end, and since I had only really listened to a handful of episodes, I was just awkwardly sitting there trying to pretend like I knew the lyrics.
+
+After the show ended, I headed back to the CalTrain station after getting some pastries for “dinner”. 
+
+## the talk show
+The next day, I took the 4 pm train down to San Jose, thinking that arriving an hour early would be plenty of time to get food and wait in line, since doors weren’t till 6, and the show wasn’t supposed to start until 7. However, as soon as I got to San Jose, someone tweeted a picture of how long the line was. I immediately lost my appetite, and got to the California Theatre as fast as I could. There was a **really** long line when I got there, but I decided to ask someone what the line was for, and it was for a Swift Panel with Chris Lattner (unfortunately it conflicted). I walked around the block (the wrong way) and found the Talk Show line, which was also quite long. I met some cool people and chatted about the Keynote, and tried to predict Gruber’s guests this year. There were a lot of WWDC attendees in line, with their awesome badges, jackets, and pins, and a strong presence of Apple employees as well, chatting about their week. I was super excited for the show. I was able to get a pretty good seat, in dead center-ish of the Theatre.
+
+![walk talk show](/img/dub_dub_2017/walk_talk_show.jpg)
+
+![talk show line](/img/dub_dub_2017/talk_show_line.jpg)
+
+![pre talk show](/img/dub_dub_2017/pre_talk_show.jpg)
+
+After it wrapped up, I headed to a nearby cafe for a quick chai and almond croissant before catching the train. They had live music too, which was awesome. I realized that I was about to miss the train, and if I missed it, I would have to take a car up, and that would be much more expensive, so I hurried over to the station as quickly as possible to make sure I didn’t miss it.
+
+![post talk show](/img/dub_dub_2017/post_talk_show.jpg)
+
+![talk show things](/img/dub_dub_2017/talk_show_things.jpg)
+
+## retro
+I bought an Apple Watch, series 2, 42mm, Space Gray.
+
+I’m also definitely going to try to “attend” WWDC next year, where “attend” can either be going with a ticket with my name on it, or just being in the area and going to related events. 
+
+I also am _really_ close to buying a new iPad Pro. 
