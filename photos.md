@@ -4,8 +4,6 @@ title: Photos
 permalink: /photos/
 ---
 
-Check back soon! I'll be posting photo posts here.
-
 <div class="home">
   <ul class="post-list">
     {% for post in site.categories.photos %}
