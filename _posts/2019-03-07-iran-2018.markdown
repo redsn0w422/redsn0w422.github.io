@@ -1,107 +1,146 @@
 ---
 layout: photos
 title:  "Iran 2018"
-date:   2019-03-06 17:25:08
+date:   2019-03-07 10:00:00
 category: photos
 ---
 
 <div class="wrapper">
-    <h1>Welcome!</h1>
-	This past winter break, we went to Iran!
+    <h1>Photo Stories</h1>
+	<p>Inspired by <a href="https://paulstamatiou.com/photos/">Paul Stamatiou</a>, I've decided to start posting photos on my website. For the first post, I've picked out about 20 pictures from my trip to Iran this past winter.</p>
 </div>
 
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- luggage -->
 		<img src="/img/iran2018/iran2018_1.png">
 	</div>
 </div>
 
+<div class="wrapper">
+	<p>Our journey started by attempting to fit 16 bags in the taxi's mini-van. We flew from O'Hare to Frankfurt, then Frankfurt to Tehran. Even though I always sit aisle, I got to take some window sunset pictures since we had the whole row to ourselves.</p>
+</div>
+
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- window sunset -->
 		<img src="/img/iran2018/iran2018_2.png">
 	</div>
 </div>
 
 <div class="photo-row row">
-	<div class="col-sm-6 right">
+	<div class="col-md-6 right">
+		<!-- frankfurt train -->
 		<img src="/img/iran2018/iran2018_3.png">
 	</div>
-	<div class="col-sm-6 left">
+	<div class="col-md-6 left">
+		<!-- carpet painting -->
 		<img src="/img/iran2018/iran2018_6.png">
 	</div>
 </div>
 
+<div class="wrapper">
+	<p>First things first: checking out rugs and getting breakfast. We bought bread every other day, and treated ourselves to <a href="https://en.wikipedia.org/wiki/Haleem">haleem</a> the first morning.</p>
+</div>
+
 <div class="photo-row row">
 	<div class="col-sm-6 right">
+		<!-- buying bread -->
 		<img src="/img/iran2018/iran2018_4.png">
 	</div>
 	<div class="col-sm-6 left">
+		<!-- buying breakfast -->
 		<img src="/img/iran2018/iran2018_5.png">
 	</div>
 </div>
 
 <div class="photo-row row">
-	<div class="col-sm-6 right">
+	<div class="col-md-6 right">
+		<!-- 33 pol -->
 		<img src="/img/iran2018/iran2018_7.png">
 	</div>
-	<div class="col-sm-6 left">
+	<div class="col-md-6 left">
+		<!-- hodel dad in yazd -->
 		<img src="/img/iran2018/iran2018_9.png">
 	</div>
 </div>
 
+<div class="wrapper">
+	<p>We also always try to visit tourist hotspots while we're there - so this time we visited Isfahan and the famous Si-o-se-pol (even though the river was dried out) and spent two days in Yazd, which is now a world heritage site.</p>
+</div>
+
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- terme -->
 		<img src="/img/iran2018/iran2018_11.png">
 	</div>
 </div>
 
 <div class="photo-row row">
 	<div class="col-sm-6 right">
+		<!-- castle -->
 		<img src="/img/iran2018/iran2018_8.png">
 	</div>
 	<div class="col-sm-6 left">
+		<!-- bazaar -->
 		<img src="/img/iran2018/iran2018_10.png">
 	</div>
 </div>
 
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- fire temple -->
 		<img src="/img/iran2018/iran2018_12.png">
 	</div>
 </div>
 
+<div class="wrapper">
+	<p>In Yazd, we checked out the historical wind towerws, designed to cool the large water tanks that sat directly underground in little villages. We also got to visit the Tower of Silence, which is where Zoroastrians would take dead bodies to be eaten by vulters. They had a tower for men and one for women, and we got to climb to the top and peer inside.</p>
+</div>
+
 <div class="photo-row row">
-	<div class="col-sm-6 right">
+	<div class="col-md-6 right">
+		<!-- wind water -->
 		<img src="/img/iran2018/iran2018_13.png">
 	</div>
-	<div class="col-sm-6 left">
+	<div class="col-md-6 left">
+		<!-- couple in yazd -->
 		<img src="/img/iran2018/iran2018_14.png">
 	</div>
 </div>
 
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- door to dakhme -->
 		<img src="/img/iran2018/iran2018_15.png">
 	</div>
 </div>
 
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- actual pit -->
 		<img src="/img/iran2018/iran2018_16.png">
 	</div>
 </div>
 
+<div class="wrapper">
+	<p>Right before we left Yazd, we visited the desert and got to ride some camels. The man who took care of them makes ~$100 USD a month, has three kids (with one currently in the hospital), and drives them one hour each way to school.</p>
+</div>
+
 <div class="photo-row row">
 	<div class="col-sm-6 right">
+		<!-- sunset mosque -->
 		<img src="/img/iran2018/iran2018_17.png">
 	</div>
 	<div class="col-sm-6 left">
+		<!-- putting camel thing -->
 		<img src="/img/iran2018/iran2018_19.png">
 	</div>
 </div>
 
 <div class="photo-row row">
 	<div class="col-xs-12">
+		<!-- camels -->
 		<img src="/img/iran2018/iran2018_18.png">
 	</div>
 </div>

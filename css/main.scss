@@ -66,8 +66,8 @@ $on-laptop:             800px;
 }
 
 .photo-row {
-    padding-top:    $spacing-unit;
-    padding-bottom: $spacing-unit;
+    // padding-top:    $spacing-unit;
+    // padding-bottom: $spacing-unit;
     text-align:     center;
 }
 
@@ -81,4 +81,9 @@ $on-laptop:             800px;
 
 .right {
     text-align: right;
+}
+
+img {
+    padding-top:    $spacing-unit;
+    padding-bottom: $spacing-unit;
 }
