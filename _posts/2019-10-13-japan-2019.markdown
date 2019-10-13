@@ -39,7 +39,7 @@ category: photos
 </div>
 
 <div class="wrapper photo-text-top photo-text-bottom">
-	<p>For my first trip (hopefully of many) to Japan, I spent roughly two weeks, traveling between Tokyo, Kyoto, Osaka, and Mt. Fuji. This photo set is a "summary" of the trip - I took roughly 3,000 photos with my camera, and 1,500 photos with my phone.</p>
+	<p>For my first trip (hopefully of many) to Japan, I spent roughly two weeks traveling between Tokyo, Kyoto, Osaka, and Mt. Fuji. This photo set is a "summary" of the trip - I took roughly 3,000 photos with my camera and 1,500 photos with my phone.</p>
 	<p>My trip started in Tokyo, where we visited the famous Shibuya crossing and the Palace and its gorgeous gardens. We also visited a festival at a nearby temple and the fish market, all while enjoying some very tasty (and pricy) street food wagyu.</p>
 </div>
 
@@ -80,7 +80,7 @@ category: photos
 </div>
 
 <div class="wrapper photo-text-top photo-text-bottom">
-	<p>After four days in Tokyo, we spent a short weekend in a town close to Mt. Fuji. We traveled only via  train the whole trip, and got to ride in a Thomas the Tank Engine train to our final station by Lake Kawaguchiko. The town was very quiet and peaceful, and we got to visit a mini tourist-friendly village showing off different arts and crafts.</p>
+	<p>After four days in Tokyo, we spent a short weekend in a town close to Mt. Fuji. We traveled only via train the whole trip, and got to ride in a Thomas the Tank Engine train to our final station by Lake Kawaguchiko. The town was very quiet and peaceful, and we got to visit a mini tourist-friendly village showing off different arts and crafts.</p>
 </div>
 
 <div class="photo-row row">
@@ -126,7 +126,7 @@ category: photos
 </div>
 
 <div class="wrapper photo-text-top photo-text-bottom">
-	<p>Our next destination was Kyoto, probably my favorite part of the whole trip. Kyoto has had a recent rise of third-wave coffee shops, and I tried to weave coffee pit-stops throughout our time there. Besides the coffee, we had some great Japanese food, visited temples small and large, and hung out on our hostel's rooftop.</p>
+	<p>Our next destination was Kyoto, probably my favorite part of the whole trip. Kyoto has had a recent rise of third-wave coffee shops, and I tried to weave coffee pit-stops throughout our time there. Besides the coffee, we had some great Japanese food, visited temples both small and large, and hung out on our hostel's rooftop.</p>
 </div>
 
 <div class="photo-row row">
