@@ -1,0 +1,257 @@
+---
+layout: photos
+title:  "Japan 2019"
+date:   2019-10-13 10:00:00
+category: photos
+---
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/fuji_main.jpg">
+	</div>
+</div>
+
+
+<div class="wrapper center">
+    <h1>Japan - 2019</h1>
+	<p><em>Tokyo, Kyoto, Osaka, and Mt. Fuji</em></p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/free_hugs.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/temple_garden.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/temple_garden_lake.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/temple_garden_two.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>For my first trip (hopefully of many) to Japan, I spent roughly two weeks, traveling between Tokyo, Kyoto, Osaka, and Mt. Fuji. This photo set is a "summary" of the trip - I took roughly 3,000 photos with my camera, and 1,500 photos with my phone.</p>
+	<p>My trip started in Tokyo, where we visited the famous Shibuya crossing and the Palace and its gorgeous gardens. We also visited a festival at a nearby temple and the fish market, all while enjoying some very tasty (and pricy) street food wagyu.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/shrine_festival.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/shrine_festival_three.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/shrine_festival_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/shrine_festival_four_kid_shoulder.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/shrine_festival_five.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/beef.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/street_sweets.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>After four days in Tokyo, we spent a short weekend in a town close to Mt. Fuji. We traveled only via  train the whole trip, and got to ride in a Thomas the Tank Engine train to our final station by Lake Kawaguchiko. The town was very quiet and peaceful, and we got to visit a mini tourist-friendly village showing off different arts and crafts.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/fuji_fog.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/fuji_lake.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/fuji_lake_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/fuji_lake_four.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/fuji_village_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/fuji_scenic.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/sun_rays.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/fuji_fishers.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>Our next destination was Kyoto, probably my favorite part of the whole trip. Kyoto has had a recent rise of third-wave coffee shops, and I tried to weave coffee pit-stops throughout our time there. Besides the coffee, we had some great Japanese food, visited temples small and large, and hung out on our hostel's rooftop.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/kyoto_temples.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/kyoto_temple_view_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/kyoto_solo_temple.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/pancakes.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/pancakes_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/big_statue.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/kyoto_hostel_view_four.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/japan2019/kyoto_hostel_view.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/japan2019/kyoto_hostel_view_two.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/japan2019/kyoto_hostel_view_three.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/shrine_gates.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/shrine_gate_close.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>One of our mini-trips was to visit Nara, which is famous for ... being able to "mingle" with monkeys and deer. It's a bit of a trek up to the mountain, but the views combined with being able to feed monkeys makes it worthwhile.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/monkey_view_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/monkey_baby_cage.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/monkey_baby_sitting.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/baby_monkey_biting.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/japan2019/monkey_outside_cage.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/japan2019/monkeys_outside_cage.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/monkey_sitting.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/japan2019/monkey_on_roof.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/japan2019/monkey_crawling_roof.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/japan2019/deer_bowing.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/japan2019/deer_walking.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/japan2019/two_deer.jpg">
+	</div>
+</div>
