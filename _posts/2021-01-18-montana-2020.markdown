@@ -1,0 +1,294 @@
+---
+layout: photos
+title:  "Montana 2020"
+date:   2021-06-08 10:00:00
+category: photos
+---
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/gnp_twenty_nine.jpg">
+	</div>
+</div>
+
+
+<div class="wrapper center">
+    <h1>Montana - 2020</h1>
+	<p><em>Glacier National Park</em></p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/IMG_1022.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/IMG_1032.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/IMG_1049.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/deadstock.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>Pit stop in PDX - mandatory Voodoo and Deadstock. Our AirBnB was situated in a mini forest, with plenty of trees for hammocking, and a calming lake in our yard.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/hammock_party.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/hammock.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/lonely_swing.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/calm_lake.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/calm_lake_ball.jpg">
+	</div>
+</div>
+
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/astro.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/campfire.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/campfire_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/cat_window.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/cat_window_hunter.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/cat_groceries.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/cat_sleeping.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>We had one smaller hike at Strawberry Lake, and two larger hikes at Glacier.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/strawberry_hill_top.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/strawberry_hill_one.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/strawberry_hill_three.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/strawberry_hill_two.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/strawberry_hill_six.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/strawberry_hill_four.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/strawberry_hill_five.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/strawberry_hill_seven.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/hauser.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/avocado_toast.jpg">
+	</div>
+</div>
+
+<div class="wrapper photo-text-top photo-text-bottom">
+	<p>No trip is complete without the right bag, or proper mid-hike snack.</p>
+</div>
+
+<div class="photo-row row">
+	<div class="col-md-6 right">
+		<img src="/img/montana2020/horse_trail_one.jpg">
+	</div>
+	<div class="col-md-6 left">
+		<img src="/img/montana2020/horse_trail_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/horse_trail_three.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_one.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_two.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_five.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_eight.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_six.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_nine.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_ten.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_eight.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_eleven.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twelve.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_fourteen.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_fifteen.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_sixteen.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/gnp_seventeen.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_eighteen.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_nineteen.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty_two.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty_five.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_twenty_one.jpg">
+	</div>
+	<div class="col-xs-6">
+		<img src="/img/montana2020/gnp_twenty_four.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/gnp_twenty_three.jpg">
+	</div>
+</div>
+
+
+<div class="photo-row row">
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty_six.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty_seven.jpg">
+	</div>
+	<div class="col-xs-4">
+		<img src="/img/montana2020/gnp_twenty_nine.jpg">
+	</div>
+</div>
+
+<div class="photo-row row">
+	<div class="col-xs-12">
+		<img src="/img/montana2020/gnp_twenty_eight.jpg">
+	</div>
+</div>
+
