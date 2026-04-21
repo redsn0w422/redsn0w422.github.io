@@ -12,4 +12,4 @@ github_username: redsn0w422
 markdown: kramdown
 
 plugins:
-  -jekyll-admin
+  - jekyll-admin
