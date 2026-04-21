@@ -2,6 +2,7 @@
 <html>
 
   {% include head.html %}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css"/>
 
   <style>
     .page-content {
@@ -20,6 +21,18 @@
     </div>
 
     {% include footer.html %}
+
+    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+    <script>
+      document.querySelectorAll('.photos-wrapper img').forEach(function(img) {
+        var a = document.createElement('a');
+        a.href = img.src;
+        a.className = 'glightbox';
+        img.parentNode.insertBefore(a, img);
+        a.appendChild(img);
+      });
+      GLightbox();
+    </script>
 
   </body>
 </html>
