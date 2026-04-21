@@ -10,3 +10,6 @@ github_username: redsn0w422
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  -jekyll-admin

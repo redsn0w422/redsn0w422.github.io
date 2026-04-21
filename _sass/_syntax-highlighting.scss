@@ -1,11 +1,9 @@
-@use "variables" as *;
-
 /**
  * Syntax highlighting styles
  */
 .highlight {
     background: #fff;
-    margin-bottom: calc($spacing-unit / 2);
+    @extend %vertical-rhythm;
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
